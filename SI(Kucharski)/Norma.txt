@@ -1,0 +1,7 @@
+T NORMA KONIUNKCJA
+S NORMA ALTERNATYWY
+
+Logika rozmyta mowi nam ze punkt moze nalezec do kilku grup,
+ale dalej jest to jeden punkt, wiec suma tych funkcji przynaleznosci
+= 1. 
+
